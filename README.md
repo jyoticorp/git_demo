@@ -1,5 +1,5 @@
 # git_demo
 git learning repository
-#GIT KEY COMMANDS
+# GIT KEY COMMANDS
 git push
 git pull
